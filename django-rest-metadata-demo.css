@@ -1,0 +1,20 @@
+/* this is for styling the overlay
+ * when using header / footer and backimage
+ *
+ * see metadata in notebook
+ */
+
+
+#rise-footer {
+    margin: 10px;
+    right: 10%;
+}
+
+#rise-footer img {
+    height: 2em;
+    margin-left: 10em;
+}
+
+#slide-0-0 h1 {
+    margin-bottom: 5em;
+}
