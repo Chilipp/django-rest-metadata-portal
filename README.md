@@ -5,6 +5,10 @@ This presentation is part of the (virtual) HGF MareHUB Raster Metadata workshop
 on October 15th, 2020.
 
 
+Open the [PDF-](django-rest-metadata-demo.pdf) or
+[HTML](django-rest-metadata-demo.html)-file for a compiled version of the
+[presentation (notebook)](django-rest-metadata-demo.ipynb).
+
 ## Requirements to run this notebook
 
 - `linux` or `osx`
